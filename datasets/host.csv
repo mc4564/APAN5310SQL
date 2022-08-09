@@ -1,0 +1,336 @@
+host_id,host_name
+1,NASA & the Royal Astronomical Society
+2,Heritage Provider Network
+3,Allstate
+4,UCL
+5,UCI
+6,DonorBureau
+7,VigLink
+8,Hewlett
+9,Data Science London
+10,Belkin
+11,Merck & Co.
+12,Practice Fusion
+13,Impermium Corporation
+14,Stack Exchange
+15,CareerBuilder
+16,SF Bay Area ACM
+17,IEEE Working Group on Energy Forecasting
+18,Winton Capital Management
+19,Harvard Business Review
+20,U.S. Census Bureau
+21,"Center for Investigative Reporting and Investigative Reporters and Editors, Inc."
+22,Moscow Institute of Physics and Technology
+23,"Hogeschool Rotterdam, Instituut voor Communicatie, Media & Informatietechnologie"
+24,"Eotvos University, Budapest"
+25,Facebook
+26,Galaxy Zoo
+27,Yelp
+28,GE
+29,General Electric
+30,Gross Consulting
+31,Itseez
+32,Colorado Succeeds
+33,University of Ljubljana
+34,Indian School of Business
+35,Hangtime
+36,Kaggle
+37,Michael J. Fox Foundation for Parkinson's Disease
+38,Fast Iron
+39,Kaggle Noobs
+40,Amazon.com
+41,Adzuna
+42,U. Montreal
+43,Marinexplore and Cornell University
+44,American Meteorological Society
+45,ICML 2013 Workshop on Representation Learning
+46,ChaLearn
+47,Qatar University
+48,Cornell University
+49,ICMI
+50,SeeClickFix
+51,Microsoft Research
+52,Central European University
+53,University of Montreal
+54,dunnhumby & hack/reduce
+55,"Poznan University of Technology, Poland"
+56,Expedia Inc
+57,Université de Toulon - France
+58,IEEE MLSP 2013 Organizing Committee
+59,Seal Mobile ID
+60,StumbleUpon
+61,Yandex
+62,Stanford University
+63,Battlefin
+64,Northeastern University
+65,Crowdflower
+66,"Vrije Universiteit Brussel, Artificial Intelligence Lab"
+67,"UJF, UPMC, NCSR ""Demokritos"", AUEB"
+68,Fondazione Bruno Kessler and Università di Trento
+69,"DYNI, Toulon University"
+70,MathWorks
+71,Imperial College London
+72,PAKDD 2014
+73,Technical University of Munich
+74,"National Institutes of Health (NINDS), Mayo Clinic, University of Pennsylvania"
+75,General Assembly
+76,Walmart
+77,Cornell
+78,MIPT
+79,Aalto University
+80,"LAL, CERN, ATLAS"
+81,InTraffic
+82,Erasmus School of Economics
+83,Catalina Marketing
+84,Poznan University of Technology
+85,TUM
+86,Donors Choose
+87,WISE 2014
+88,Avito
+89,IEEE International Workshop on Machine Learning for Signal Processing
+90,Criteo
+91,ФИВТ
+92,Kaggle Getting Started
+93,"Liberty Mutual Group, Inc"
+94,Technische Universität München
+95,The Earth Institute at Columbia University
+96,North Pole Factory
+97,BAH
+98,Tradeshift
+99,Innomore LLC
+100,Tampere University of Technology
+101,AXA
+102,The University of Melbourne
+103,INRIA
+104,"Institute of Service Science, National Tsing Hua University and EZTABLE"
+105,BSU
+106,HP
+107,"University of Paderborn, Germany"
+108,California Healthcare Foundation
+109,4ducks
+110,Microsoft
+111,Avazu
+112,KULeuven
+113,General Assembly NYC
+114,Washington University in St. Louis
+115,"AISBI, University of Paderborn, Germany"
+116,American Meteorological Society Committee on Artificial Intelligence
+117,Yandex School of Data Analysis (YSDA)
+118,Murat Dundar
+119,TABFoods
+120,Яндекс
+121,Otto Group
+122,University of Maryland
+123,NTU SPEECH LAB
+124,"City of Chicago, RWJF"
+125,ECML/PKDD 2015
+126,MIPT FIVT
+127,CrowdFlower
+128,Nation Taiwan University
+129,Galvanize
+130,fivt
+131,"Drawbridge, Inc & ICDM 2015"
+132,"AISBI, University of Paderborn"
+133,MLDS_Final
+134,Universidade Federal de Campina Grande
+135,Caterpillar
+136,Liberty Mutual
+137,Istituto Dalle Molle di Studi sull'Intelligenza Artificiale (IDSIA)
+138,Recruit
+139,Australasian Langauge Technology Association
+140,Springleaf
+141,CERN/Yandex
+142,Dato
+143,Winton
+144,Summer School of Machine Learning in High Energy Physics
+145,NOAA
+146,Lomonosov Moscow State University
+147,"FAST, National University of Computer & Emerging Sciences, Lahore Campus, Pakistan"
+148,Allen Institute for Artificial Intelligence
+149,Telstra
+150,Rossman
+151,Mail.Ru + MSU
+152,"National University of Singapore, School of Computing"
+153,Graz University of Technology
+154,Airbnb
+155,Walmart Stores Inc.
+156,Homesite
+157,Speech531
+158,Prudential Financial
+159,FICO
+160,simon
+161,Speech Lab 531
+162,Yandex School of Data Analysis
+163,National Research University Higher School of Economics (HSE)
+164,BNP Paribas Cardif
+165,Home Depot
+166,Overfit Inc.
+167,SAP
+168,University of Illinois at Springfield
+169,Home
+170,Genomic Vision
+171,Anonymous PhD students
+172,UMass Lowell
+173,asdsad
+174,UC Berkeley
+175,Santander
+176,University of Miami
+177,техносфера
+178,"CSA, IISc, Bangalore"
+179,Budapest University of Technology and Economics
+180,State Farm
+181,Expedia
+182,DFS Albatross
+183,Cornell ML Club
+184,Rutgers
+185,CMF
+186,Health Sponsor
+187,Northwestern University MSPA
+188,Skolkovo Institute of Science and Technology
+189,sphere.mail.ru
+190,Data Science Melbourne
+191,Draper
+192,ShU
+193,Grupo Bimbo
+194,Red Hat
+195,15.071x - Analytics Edge
+196,Duke University Energy Initiative
+197,"Yandex School of Data Analysis (YSDA), NRU High School of Economics (HSE)"
+198,IAD16
+199,Phd Organization
+200,CUNY MS Data Science
+201,"TalkingData, Dato"
+202,Sirius
+203,ETH Zurich - Institute for Machine Learning
+204,MICCAI/The University of Texas MD Anderson Cancer Center
+205,Bosch
+206,EPIA
+207,"Universidad de Buenos Aires, Facultad de Ingeniería"
+208,University of Melbourne
+209,"FAST, National University of Computer & Emerging Sciences"
+210,"Yandex, Data&Science"
+211,hyperlee
+212,SHAD
+213,Outbrain
+214,National Taiwan University
+215,Predict 413
+216,Technosphere
+217,The Nature Conservancy
+218,MLWGS Math Modeling
+219,Two Sigma
+220,epfl
+221,University of Applied Sciences Osnabrück
+222,TTIC 31020
+223,Harvard University
+224,University of Warsaw
+225,Gatech
+226,ETH Zurich
+227,ITMO
+228,МФТИ и Яндекс
+229,MIT
+230,Harvard Medical School
+231,ATP FIVT
+232,EPFL
+233,Cornell Tech
+234,Two Sigma Investments
+235,TTIC
+236,University of Rhode Island
+237,"Machine learning and data science course, MIPT"
+238,GGU
+239,KERMIT
+240,Yandex Data Factory
+241,Dstl
+242,CUNY
+243,Soumendra Dhanee
+244,Polytechnique
+245,CincyFP
+246,KÜRT Akadémia
+247,Booz Allen Hamilton
+248,National University of Computer & Emerging Sciences
+249,IDLab
+250,MLWGS
+251,Google
+252,Hacker Academy
+253,FIUBA
+254,ECMWF
+255,MLDS_NTU_2017
+256,Indian Institute of Science
+257,UTKML
+258,Higher School of Economics
+259,HSE
+260,Data Mining & Analytics Spring 2017
+261,Бабушкин суп из данных
+262,OpenDataScience
+263,Intel
+264,AinShamsUniversity
+265,Johns Hopkins University
+266,ML@B
+267,Big Data Centre of Excellence
+268,Quora
+269,Big Data Center of Excellence
+270,Baltic Federal University
+271,"National University of Computer and Emerging Sciences, Lahore, Pakistan"
+272,Planet
+273,McGill Artificial Intelligence Society
+274,BITSACM
+275,Sberbank
+276,Wroclaw University of Economics
+277,Data101Rutgers
+278,North Dakota State University
+279,IMAE
+280,Школа Анализа Данных
+281,"Neural Systems and Deep Learning lab, MIPT"
+282,IITU
+283,utkML
+284,Skoltech
+285,"Stat 154, UC Berkeley"
+286,5vision
+287,FGVC Workshop
+288,iMaterialist
+289,Daimler AG
+290,technosphere
+291,Open Data Science
+292,RepEval 2017
+293,Instacart
+294,Zillow
+295,INSOFE
+296,TomskML User Group
+297,UNSW Data Science Society
+298,International Information Technology Universityuqw
+299,NTU_ML2017
+300,Fariza
+301,IITU IS161M
+302,TSA
+303,ESA
+304,ImageNet
+305,HappyWhale
+306,Brazilian Computer Science Society
+307,Delft University of Technology
+308,Memorial Sloan Kettering Cancer Center
+309,"Escuela de Ciencias Informáticas 2017 (DC, FCEyN, UBA)"
+310,Ukrainian Data Science Club
+311,Monash Data Science Society
+312,Carvana
+313,YSDA
+314,Ukrainian Catholic University
+315,The Australian National University and Data61
+316,SJTU
+317,CAMALAB
+318,重庆仙桃数据学院
+319,"Google, Inc."
+320,XianTao Big Data & IoT Innovation College
+321,"Google, Inc"
+322,Suny at Albany
+323,Puerto Seguro Seguro
+324,"FAST, NUCES"
+325,Artificial Intelligence Association of Thailand (AIAT)
+326,Cdiscount
+327,HDU-CAMALAB
+328,Absa
+329,KKBOX
+330,ML-readinggroup
+331,Universidad de Buenos Aires - Facultad de Ingenieria
+332,UTK Machine Learning
+333,Recruit Group
+334,NOMAD
+335,Statoil

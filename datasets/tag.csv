@@ -1,0 +1,321 @@
+tag_id,tag_name,fullpath,tag_descrip,datasetcount,competitioncount,kernelcount
+1115,websites,subject > science and technology > internet > websites,"Websites, like this one, are collections of content that can be found under a specific address. These datasets include information on individual websites or collections of websites.",223,0,186
+1219,research,subject > science and technology > research,"Research is our endeavor to systematically increase our knowledge about the world. Whether it's undertaken by greats like Einstein or underpaid graduate students, you'll find the fruits of their labor in this tag plus the kernels that make their work reproducible.",356,6,259
+1220,search engines,subject > science and technology > internet > search engines,,59,0,69
+1222,universities and colleges,subject > people and society > education > universities and colleges,This tag contains all kinds of information about which colleges are good and how much money people make after attending classes there.,3624,0,379
+2100,culture and humanities,subject > culture and humanities,What is it to be human? What activities and patterns of behavior define us and our societies? This tag will help you tackle these questions.,177,0,63
+2107,languages,subject > culture and humanities > languages,Language is a method of communication that consists of using words arranged into meaningful patterns. This is a good place to find natural language processing datasets and kernels to study languages and train your chat bots.,511,4,238
+2112,popular culture,subject > culture and humanities > popular culture,"Popular culture datasets and kernels are associated with topics like TV shows, movies, music, and video games. The greatest screenwriters come here to train their AI to write movie scripts.",192,0,61
+2115,alcohol,subject > health and fitness > food > alcohol,"Here's to alcohol: the cause of, and solution to, all of life's problems. -- Homer J. Simpson",1087,0,12915
+2200,arts and entertainment,subject > arts and entertainment,"Activities that holds the attention and interest of an audience, or gives pleasure and delight. It can be an idea or a task, but is more likely to be one of the activities or events that have developed over thousands of years specifically for the purpose of keeping an audience's attention.",21178,0,22864
+2202,celebrities,subject > arts and entertainment > celebrities,Celebrity is the fame and public attention we give to superstars of popular culture like the Kardashian family and Jeff Dean.,310,0,34
+2206,literature,subject > arts and entertainment > literature,"This tag is your digital library for varius copora such as Southern Literature, Paranormal Romance novels, and Urban Dictionary spelling variations.",1675,1,445
+2207,museums,subject > arts and entertainment > museums,Fun place to hang on a Saturday afternoon and think deep thoughts about deep things. Find datasets and kernels related to various museum collections here.,75,0,7
+2302,dance,subject > arts and entertainment > dance,,129,0,7
+2303,movies and tv shows,subject > arts and entertainment > movies and tv shows,Grab a bucket of popcorn and come analyze these movie ratings. The world must know which blockbuster film is the blockbuster film of all time!,6393,3,1862
+2304,music,subject > arts and entertainment > music,"With all the music data out there, it's hard to believe someone hasn't trained robots to perform on stage yet. Or have they?",5048,0,16850
+2400,art,subject > arts and entertainment > art,,1216,1,10766
+2500,games,subject > culture and humanities > games,One of the hallmarks of intelligence is the use of games and toys to occupy free time and develop intellectually. Often stored in Mom's basement.,3334,0,34990
+2501,board games,subject > culture and humanities > games > board games,"A board game is a tabletop game that involves counters or pieces moved or placed on a pre-marked surface or ""board"", according to a set of rules.",150,2,89
+2502,card games,subject > culture and humanities > games > card games,"A card game is any game using playing cards as the primary device with which the game is played, be they traditional or game-specific. Countless card games exist, including families of related games (such as poker).",92,1,25
+2505,puzzles,subject > culture and humanities > games > puzzles,"A puzzle is a game, problem, or toy that tests a person's ingenuity or knowledge. In a puzzle, the solver is expected to put pieces together in a logical way, in order to arrive at the correct solution of the puzzle.",413,0,127
+2507,video games,subject > culture and humanities > games > video games,Video games were originally created to prevent people from going to college and getting good jobs. That back-fired and now we have data centers full of GPUs training models to tell the difference between cats and dogs. All thanks to gamers.,2642,4,3836
+2603,football,subject > health and fitness > exercise > sports > football,"Some call it association football, some call it soccer, most call it sport ball. Come analyze the teams and players of the beautiful game.",1601,6,772
+2604,auto racing,subject > health and fitness > exercise > sports > auto racing,,240,0,115
+2605,baseball,subject > health and fitness > exercise > sports > baseball,Baseball is a bat-and-ball game played between two teams of nine players each who take turns batting and fielding.,714,1,745
+2606,basketball,subject > health and fitness > exercise > sports > basketball,Basketball is one of the world's most popular and widely viewed sports. Analyze Kobe Bryant's shot selections and peruse our annual March Mania competitions.,892,17,632
+2610,cricket,subject > health and fitness > exercise > sports > cricket,"Cricket is a sport, but I don't see any reason why there shouldn't be a dataset about crickets here, too.",975,0,301
+2614,golf,subject > health and fitness > exercise > sports > golf,Golf is a club and ball sport in which players use various clubs to hit balls into a series of holes on a course in as few strokes as possible.,111,0,3350
+2615,gymnastics,health and fitness > self care > exercise > sports > individual sports > gymnastics,"Gymnastics is a sport practiced by men and women that requires balance, strength, flexibility, agility, coordination, endurance and control.",6,0,12
+2618,hockey,subject > health and fitness > exercise > sports > hockey,,197,0,44
+2626,tennis,subject > health and fitness > exercise > sports > tennis,"Tennis is a racket sport that enjoys worldwide popularity among athletes, recreational players, and sports analytics junkies.",41,0,25
+2629,water sports,subject > health and fitness > exercise > sports > water sports,,20,0,5
+3000,geography and places,geography and places,,0,0,0
+3003,water bodies,subject > earth and nature > environment > water bodies,"Lakes, oceans, rivers, streams, and infamous puddles.",57,4,68
+3004,cities and urban areas,subject > earth and nature > environment > cities and urban areas,In this tag you will find datasets and kernels about various cities around the world.,396,2,125
+3007,global,geography and places > global,A country is a region that is identified as a distinct national entity in political geography.,417,0,140
+3008,deserts,subject > earth and nature > environment > deserts,,2,0,1
+3011,mountains,subject > earth and nature > environment > mountains,"From the Appalachians to Zwiselbacher Rosskogel, this tag has all the info you need about mountains.",18,0,1
+3022,united states,geography and places > north america > united states,"The top datasets and kernels in this tag are about mass shootings, AirBnB, homelessness, and witchcraft. That about sums it up.",874,0,345
+3023,india,geography and places > asia > india,"This tag will take you to the wonderful land of datasets and kernels related to India. You will find topics that range far and wide. There's education, travel, weather, and crime, too.",1008,0,613
+3024,china,geography and places > asia > china,"China, officially the People's Republic of China, is a unitary sovereign state in East Asia and the world's most populous country, with a population of around 1.404 billion.",121,0,66
+3025,brazil,geography and places > south america > brazil,"You don't have to visit Brazil to learn about their politics, soccer, and brush with Zika. This tag covers all the things you might be interested in about Brazil.",375,0,181
+3100,europe,geography and places > europe,You can find some European linguistic type datasets here as well as other European-like datasets and kernels.,627,0,113
+3200,north america,geography and places > north america,"North America includes Canada, Mexico and the United States. If you're looking for data about any or all of these places, this is the tag you need.",125,0,21
+3300,south america,geography and places > south america,"South America is a continent located in the western hemisphere, mostly in the southern hemisphere, with a relatively small portion in the northern hemisphere. It may also be considered a subcontinent of the Americas, which is how it is viewed in the Spanish-speaking regions of the Americas.",58,0,8
+3400,africa,geography and places > africa,"Africa is the world's second largest and second most-populous continent. At about 30.3 million km2 including adjacent islands, it covers 6% of Earth's total surface area and 20.4% of its total land area.",119,0,50
+3500,australia,geography and places > oceania > australia,"This tag contains information on Australia: AKA the smallest continent, the land down under, Oz, Terra Australis or Straya.",109,0,57
+3600,asia,geography and places > asia,"Asia is Earth's largest and most populous continent, located primarily in the Eastern and Northern Hemispheres.",332,0,72
+3601,russia,geography and places > asia > russia,"At 17,125,200 square kilometres, Russia is the largest country in the world by area, covering more than one-eighth of the Earth's inhabited land area, and the ninth most populous.",152,0,64
+3700,antarctica,geography and places > antarctica,Antarctica is Earth's southernmost continent.,9,0,4
+4000,health and fitness,subject > health and fitness,,119,0,405
+4130,exercise,subject > health and fitness > exercise,"Drop and give me 100 gigabytes of push-ups, print out the summary statistics 15 times, then train your model for 50 epochs!",6247,0,34051
+4140,running,subject > health and fitness > exercise > running,Running will get you nowhere in data science because you have to stand still to analyze data. So let the runners run and let the analysts analyze the runners. The only time a data scientist needs to run is when they're running a model.,40,0,17
+4141,sports,subject > health and fitness > exercise > sports,"The sports tag covers the whole spectrum of sports around the world. We've got tennis, we've got football, and we've even got kitefoil racing.",3695,18,3157
+4171,mental health,subject > health and fitness > health > health conditions > mental health,"Mental health is a level of psychological well-being, or an absence of mental illness.",448,0,182
+4202,healthcare,subject > health and fitness > health > healthcare,"AI in healthcare is a growing interest. One of the major problems is simply converting research into an application. Should be easy, right?",941,9,1224
+4302,diseases,subject > health and fitness > health > health conditions > diseases,Datasets and kernels related to various diseases. Make sure you wear goggles and gloves before touching these datasets. Also wash your hands.,378,1,315
+4306,nutrition,subject > health and fitness > health > nutrition,"Nutrition is the science that interprets the interaction of nutrients and other substances in food in relation to maintenance, growth, reproduction, health and disease of an organism. In this tag you'll find the most nutrtitious datasets and kernels.",601,0,159
+4309,public health,subject > health and fitness > health > public health,"This tag contains datasets and kernels on things that affect the general health of the public. They include foodborne illness, dengue fever, immunization records, and all the other things that mean you have to get a shot at the doctor's office.",1125,1,720
+4406,genetics,subject > earth and nature > biology > genetics,"Human genetics encompasses a variety of overlapping fields including: classical genetics, cytogenetics, molecular genetics, biochemical genetics, genomics, population genetics, developmental genetics, clinical genetics, and genetic counseling.",178,2,134
+4423,dentistry,subject > health and fitness > health > healthcare > dentistry,"Dentistry is a branch of medicine that consists of the study, diagnosis, prevention, and treatment of diseases, disorders and conditions of the oral cavity.",246,0,53
+6602,bayesian statistics,technique > bayesian statistics,,32,0,242
+6603,categorical data,data type > categorical data,"Categorical data are observations that fall into discrete categories, like dog breed, dog color or whether or not a dog likes chew toys.",918,0,1366
+6613,sampling,technique > sampling,,28,0,219
+7000,earth and nature,subject > earth and nature,,19532,2,229
+7100,biology,subject > earth and nature > biology,"Explore datasets and kernels about gene expressions, transcriptomics, and even the works of Charles Darwin.",4802,10,4456
+7105,neuroscience,subject > health and fitness > health > neuroscience,"Neuroscience, sometimes called neurobiology, is the scientific study of the nervous system.",422,1,887
+7200,earth science,subject > earth and nature > earth science,"Geology, geography and oceanography. If it's on the Earth and not a plant or animal, this the tag for it.",1054,1,762
+7201,atmospheric science,subject > earth and nature > earth science > atmospheric science,,637,1,336
+7202,geography,subject > earth and nature > earth science > geography,The geography tag contains datasets and kernels that showcase geospatial analysis and mapping.,385,2,215
+7203,geology,subject > earth and nature > earth science > geology,"Geology is an earth science concerned with the solid Earth, the rocks of which it is composed, and the processes by which they change over time",484,2,237
+7301,animals,subject > earth and nature > animals,The animals tag is as diverse as a rainforest. Is there a correlation between animal bites and NYC rat sightings? We're not sure. But the data is here and the world needs to know.,1035,13,860
+7302,environment,subject > earth and nature > environment,The environment tag is chock full of datasets and kernels that are generally showing how poorly we are treating the planet. One positive side to this tag is that it wasn't printed on paper.,641,5,367
+7306,plants,subject > earth and nature > plants,Datasets don't grow on trees but you will find plant-related datasets and kernels here.,175,11,102
+7307,pollution,subject > earth and nature > environment > pollution,Pollution is the introduction of contaminants into the natural environment that cause adverse change.,178,3,137
+7400,physical science,subject > earth and nature > physical science,"Physical science is a branch of natural science that studies non-living systems, in contrast to life science.",38,0,32
+7401,astronomy,subject > earth and nature > physical science > astronomy,"There are lots of fun datasets here for you to analyze, and who knows, maybe you'll find a habitable planet hidden in the data that no one else saw. Then you could have a planet named after you!",612,3,859
+7402,chemistry,subject > earth and nature > physical science > chemistry,Chemistry addresses topics such as how atoms and molecules interact via chemical bonds to form new chemical compounds.,311,3,238
+7404,physics,subject > earth and nature > physical science > physics,"Physics is the natural science that involves the study of matter and its motion and behavior through space and time, along with related concepts such as energy and force.",415,4,1016
+7407,natural disasters,subject > earth and nature > environment > natural disasters,,120,0,182
+7408,weather and climate,subject > earth and nature > environment > weather and climate,"Weather datasets and kernels come in all wind speeds and directions. You have weather data about hurricanes and other inclement phenomena, hourly readings, and general weather for various cities.",650,2,395
+8100,people,subject > people and society > people,"This tag is for collections of information about, you guessed it, people.",247,2,66
+8203,gender,subject > people and society > people > gender,"Gender is the range of characteristics pertaining to, and differentiating between, masculinity and femininity.",152,0,99
+8301,clothing and accessories,subject > people and society > people > clothing and accessories,"The datasets and kernels in this fashionable tag include clothes, shoes, and jewelry.",12232,1,444
+8302,employment,subject > people and society > jobs and career > employment,Where does it pay to attend college? What impacts employee satisfaction and what makes them quit their jobs? Explore these questions and others in kernels and datasets with this tag.,258,1,122
+8309,income,subject > people and society > jobs and career > income,This tag contains datasets and kernels related to various incomes and salaries. Explore census-like data that covers city-level income down to individuals.,121,0,102
+8317,housing,subject > people and society > business > real estate > housing,"Explore datasets, kernels, and competitions related to housing markets in this tag.",321,4,633
+9100,philosophy,subject > arts and entertainment > philosophy,,57,0,22
+9109,history,subject > people and society > social science > history,"History is generally the study of past events that have shaped the world. Here on Kaggle, you'll find historical records and analyses on topics like Bitcoin data, UFO sightings, and sports tournaments.",749,1,259
+10000,religion and belief systems,subject > people and society > religion and belief systems,,2686,0,616
+11000,people and society,subject > people and society,,252,0,85
+11102,business,subject > people and society > business,"Businesses are organizational entities that drive economic activity. Explore the inner workings of things like HR practices, product sales, and customer happiness in these competitions, kernels, and datasets.",32836,3,25106
+11104,crime,subject > people and society > law > government > crime,"A crime is an unlawful act punishable by a state or other authority. Explore datasets, kernels, and competitions related to white collar crime, global terrorism, and more in this tag.",1307,1,624
+11105,education,subject > people and society > education,"Education datasets and kernels relate to statistics on student performance, university rankings, and answers for all your homework questions.",10156,5,14495
+11108,finance,subject > people and society > business > finance,"The finance tag covers datasets and kernels about money and investing. If you need to test some new cryptocurrency investment strategies or ward off those pesky credit card fraud enthusiasts, then you've come to the right place.",4288,10,3548
+11110,government,subject > people and society > law > government,"Government related datasets and kernels include various datasets from government agencies like the Food and Drug Administration, police agencies, and government press releases.",1828,0,165
+11111,health,subject > health and fitness > health,Consider the health tag your data science gym. Get in there and work out those data science muscles on health analytics. Analyze heart disease until you sweat. Then recover with with a nice candy production dataset.,6527,4,7396
+11115,law,subject > people and society > law,Law is a system of rules that are created and enforced through social or governmental institutions to regulate behavior.,3987,0,266
+11117,military,subject > people and society > law > government > military,"Datasets and kernels based on historical battles and other military activities including drone attaccks, bombings, and veteran suicides.",332,0,67
+11121,politics,subject > people and society > social science > politics,Politics datasets and kernels cover topics you can use to explore the decision making that goes into the governance of groups of people all around the world.,1865,0,631
+11122,real estate,subject > people and society > business > real estate,"Datsets and kernels analyzing housing, apartments, and property in general. For those of you house-hunting, you should avoid max(house_price). It's high. Really high.",1573,3,693
+11128,lending,subject > people and society > business > finance > lending,,896,0,366
+11129,banking,subject > people and society > business > finance > banking,Banks keep the financial system interesting by failing en masse every couple of generations.,1680,9,728
+11130,crowdfunding,subject > people and society > business > finance > crowdfunding,,33,1,42
+11200,social science,subject > people and society > social science,Social science is the collection of disciplines studying how humans interact with each other.,3870,0,732
+11204,demographics,subject > people and society > social science > demographics,"Demographics cover different aspects of life: youth, religion, housing, employment, taxes and mortality. This tag contains census data that describe various populations and communities.",580,1,223
+11205,economics,subject > people and society > social science > economics,"The economics tag contains resources for analyzing the production, consumption, and transfer of wealth.",1949,0,496
+11207,international relations,subject > people and society > social science > international relations,"You'll find a variety of datasets and kernels in this tag concerning multiple nations and their demographics, economics, and trade.",90,0,13
+11208,linguistics,subject > people and society > social science > linguistics,"The linguistics tag contains datasets and kernels that you can use for text analytics, sentiment analyses, and making clever jokes like this: Let me tell you a little about myself. It's a reflexive pronoun that means ""me.""",643,6,161
+11211,psychology,subject > people and society > social science > psychology,Psychology is the study of how we use our brains (or don't) to interact with others. Humans are complicated and maybe data science can help us understand ourselves.,986,1,317
+11220,mortality,subject > people and society > social science > demographics > mortality,"Mortality is the state of being mortal, or susceptible to death; the opposite of immortality.",73,0,33
+12000,science and technology,subject > science and technology,,1634,1,1445
+12001,agriculture,subject > earth and nature > environment > agriculture,"You could be well on your way to creating the next big precision agriculture company with the resources in this tag. At the very least, you can use Weekly Corn Prices to make more informed decisions about your purchases at the store.",421,2,142
+12003,architecture,subject > arts and entertainment > architecture,"Architecture is both the process and the product of planning, designing, and constructing buildings or any other structures.",225,0,73
+12005,biotechnology,subject > science and technology > biotechnology,Biotechnology is the use of living systems and organisms to develop or make products.,168,1,69
+12016,energy,subject > science and technology > energy,"We've got solar, we've got coal, and we've even got nuclear energy data. According to the law of conservation of energy it can't be created or destroyed, but here our catalog of energy-related datasets and kernels continues to grow.",1649,1,448
+12021,forestry,subject > earth and nature > environment > forestry,Forestry is the management of forests. Whether this means planting trees or cutting them down depends a lot on who owns the forest.,122,4,63
+12026,manufacturing,subject > science and technology > engineering > manufacturing,"Manufacturing is the production of merchandise for use or sale using labour and machines, tools, chemical and biological processing, or formulation.",169,3,46
+12027,marketing,subject > people and society > business > marketing,"Marketing is the activity of connecting consumers to products and services. Find datasets, kernels, and competitions related to marketing in this tag.",196,5,377
+12028,medicine,subject > health and fitness > health > medicine,"Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. We recommend you take two datasets and analyze them in the morning. If that doesn't work, analyze one dataset every four hours.",482,8,674
+12038,robotics,subject > science and technology > engineering > robotics,Hopefully more Wall-E than Skynet.,160,1,75
+12044,renewable energy,subject > science and technology > energy > renewable energy,,491,0,197
+12101,artificial intelligence,subject > science and technology > computer science > artificial intelligence,This tag has datasets and kernels where people come together and use cutting-edge research to train models on pictures of cats.,651,2,880
+12107,computer science,subject > science and technology > computer science,There is one thing we can say for sure about computer science: Computer science leads to more computer games which leads to better GPUs which leads to smarter AI.,16021,1,233
+12116,internet,subject > science and technology > internet,An interconnected network of tubes that connects the entire world together. This tag covers a broad range of tags; anything from cryptocurrency to website analytics.,9565,18,1939
+12117,mobile and wireless,subject > science and technology > internet > mobile and wireless,,528,3,140
+12125,programming,subject > science and technology > computer science > programming,"The programming tag contains datsets and kernels from coder surveys, revision histories, and bug triaging.",4602,0,84901
+12127,software,subject > science and technology > computer science > software,,5522,0,11369
+12200,electronics,subject > science and technology > electronics,"Electronics is the science of controlling electrical energy electrically, in which the electrons have a fundamental role.",2849,0,218
+12300,engineering,subject > science and technology > engineering,"Engineering is the application of mathematics, science, economics, empirical evidence, social, and practical knowledge to invent, innovate, design, build, maintain, research, and improve structures, machines, tools, systems, components, materials, processes, solutions, and organizations.",142,0,66
+12400,transportation,subject > science and technology > transportation,Most of the various modes of transport are all covered in this tag. Not all though because so far there are no kernels or datasets about teleportation.,3460,1,431
+12402,automobiles and vehicles,subject > science and technology > transportation > automobiles and vehicles,The automobile tag is everything about cars. Analyze insurance rates or how far you can go on one gallon of petrol.,3960,5,1580
+12403,aviation,subject > science and technology > transportation > aviation,"When you think of aviation, are you filled with wonder and excitement for human flight? In this tag, you can find code and data related to flight delays, bird strikes, and crashing.",130,0,32
+12404,cycling,subject > science and technology > transportation > cycling,Walking is so 18th century. Cycling is a very advanced 19th-century technology that helps you get from A to B faster and easier.,602,1,653
+12406,rail transport,subject > science and technology > transportation > rail transport,Rail transport is a fancier way to say trains.,442,0,22
+12411,water transport,subject > science and technology > transportation > water transport,,98,0,37
+13100,audience,audience,,0,0,0
+13102,beginner,audience > beginner,"New to data science? Explore tips, tricks, and beginner friendly work from other Kagglers.",3180,8,34090
+13103,intermediate,audience > intermediate,,1692,0,1912
+13104,advanced,audience > advanced,,503,0,798
+13200,technique,technique,,0,0,0
+13201,exploratory data analysis,technique > exploratory data analysis,,1741,0,23694
+13202,data cleaning,analysis > data cleaning,,956,0,8997
+13203,signal processing,analysis > signal processing,,125,9,180
+13204,nlp,analysis > nlp,"Natural Language Processing gives a computer program the ability to extract meaning human language. Applications include sentiment analysis, translation, and speech recognition.",2192,14,6042
+13205,text mining,analysis > text mining,,549,3,1010
+13206,geospatial analysis,analysis > geospatial analysis,,758,5,737
+13207,computer vision,technique > computer vision,"Teaching a machine to interpret real-world images and videos. Applications include detecting objects, capturing motion, and restoring images.",1867,12,3419
+13208,data visualization,technique > data visualization,"The art of depicting data in a visual format. Using charts and graphs, it is easier to observe patterns, relationships, and outliers.",2084,0,26558
+13209,time series analysis,technique > time series analysis,,1181,10,2401
+13210,statistical analysis,analysis > statistical analysis,,323,0,1833
+13213,survey analysis,analysis > survey analysis,,183,4,474
+13215,data analytics,technique > data analytics,,1848,6,6622
+13302,classification,technique > classification,,2625,5,15206
+13304,clustering,technique > clustering,,417,1,1993
+13305,ensembling,technique > ensembling,,50,0,1747
+13306,feature engineering,technique > feature engineering,,296,0,6986
+13308,outlier analysis,technique > outlier analysis,,36,0,412
+13309,dimensionality reduction,technique > dimensionality reduction,,34,0,477
+13310,deep learning,technique > deep learning,,1752,0,13794
+13311,recommender systems,technique > recommender systems,,286,3,873
+13313,reinforcement learning,technique > reinforcement learning,,43,1,303
+13315,model comparison,technique > model comparison,,83,0,2739
+13401,gradient boosting,technique > gradient boosting,,26,0,1541
+13402,random forest,technique > random forest,,112,0,5017
+13403,xgboost,packages > xgboost,A library that implements the gradient boosting framework onto a wide range of problems including regression and classification. It is optimized for speed and efficiency.,59,0,5841
+13404,logistic regression,technique > regression > logistic regression,,191,1,3902
+13405,linear regression,technique > regression > linear regression,,391,0,4194
+13406,naive bayes,technique > naive bayes,,46,0,983
+13407,neural networks,technique > neural networks,"Machine learning algorithms inspired by the structure of a human brain and its system of neurons. Common network types include CNN, RNN, and LSTM.",339,0,4132
+13408,k-means,technique > k-means,,63,0,1019
+13409,pca,technique > pca,,38,0,991
+13410,lstm,technique > neural networks > lstm,,196,0,1631
+13411,svm,technique > svm,,47,0,1777
+13412,hmm,algorithms > hmm,,1,0,4
+13413,gan,technique > neural networks > gan,,182,2,560
+13414,dnn,technique > neural networks > dnn,,38,0,216
+13415,cnn,technique > neural networks > cnn,,881,0,4978
+13416,rnn,technique > neural networks > rnn,,137,0,677
+13417,decision tree,technique > decision tree,,98,0,2584
+14100,data type,data type,,0,0,0
+14101,tabular data,data type > tabular data,,4285,149,3582
+14102,image data,data type > image data,,4119,117,4257
+14104,text data,data type > text data,,2932,45,2834
+14105,video data,data type > video data,,214,5,101
+14106,bigquery,data type > bigquery,,170,0,527
+14201,binary classification,technique > classification > binary classification,,583,38,4546
+14202,multiclass classification,technique > classification > multiclass classification,,758,49,2719
+14203,regression,technique > regression,,708,21,4312
+14211,adversarial learning,technique > adversarial learning,,45,3,81
+14221,transfer learning,technique > transfer learning,,243,0,1437
+15000,initiatives,admin > initiatives,,0,0,0
+15001,dailychallenge,admin > initiatives > dailychallenge,Kaggle daily challenge content,3,0,1399
+15002,optimization,technique > optimization,,44,7,778
+15006,socrata,admin > initiatives > socrata,,1106,0,3
+15110,task curation,admin > task curation,Group of tags associated with curation of Kaggle tasks.,0,0,0
+15111,task reviewed,admin > task curation > task reviewed,A curator has gave their stamp of approval for the task.,0,0,0
+15112,task needs description,admin > task curation > task needs description,Task need more details in description.,0,0,0
+15113,task needs submission format,admin > task curation > task needs submission format,Task need more details on intended submission format.,0,0,0
+15114,task needs evaluation criteria,admin > task curation > task needs evaluation criteria,Task need more details on evaluation criteria.,0,0,0
+15115,task under construction,admin > task curation > under construction,Task under construction.,0,0,0
+16000,admin,admin,Admin created tags for a specific internal purpose,4,0,5
+16002,learn,admin > learn course,Kaggle Learn content,13,0,363
+16008,spaCy,packages > spaCy,"spaCy is an open-source software library for advanced Natural Language Processing, written in the programming languages Python and Cython.",50,0,820
+16010,japan,geography and places > asia > japan,"Japan is an island country in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian continent and stretches from the Sea of Okhotsk in the north to the East China Sea and the Philippine Sea in the south.",80,1,111
+16070,model explainability,technique > model explainability,"Some see machine learning models as ""black boxes"" that are difficult to interpret and explain. For this challenge, you're encouraged to use concepts such as feature importance, perturbation importance, and partial dependence plots to explain the predictions of an ML model.",34,0,1704
+16071,auto-updating data,admin > auto-updating data,Many data projects benefit from having continuously updated datasets. Can you take advantage of this newly-released feature and share a novel use case with the world?,5,0,8
+16072,audio data,data type > audio data,"In digital audio, the sound wave of the audio signal is encoded as numerical samples in continuous sequence. Ride that wave over to a dataset with this tag to analyze some audio!",460,5,381
+16074,utility script,admin > utility script,Kernels that are importable as reusable code,0,0,20951
+16109,cooking and recipes,subject > health and fitness > food > cooking and recipes,,534,0,177
+16113,food,subject > health and fitness > food,,4415,6,427
+16121,restaurants,subject > health and fitness > food > restaurants,,715,0,677
+16133,gambling,subject > culture and humanities > games > gambling,,358,0,150
+16151,simulations,subject > culture and humanities > games > video games > simulations,,155,4,177
+16175,comics and animation,subject > arts and entertainment > comics and animation,,611,0,189
+16177,anime and manga,subject > arts and entertainment > comics and animation > anime and manga,,1075,0,647
+16189,martial arts,subject > health and fitness > exercise > sports > martial arts,,186,0,41
+16206,volleyball,subject > health and fitness > exercise > sports > volleyball,,22,0,2
+16215,make-up and cosmetics,subject > people and society > people > make-up and cosmetics,,125,0,13
+16221,drugs and medications,subject > health and fitness > health > healthcare > drugs and medications,,505,1,214
+16229,fish and aquaria,subject > earth and nature > animals > fish and aquaria,,144,0,41
+16278,holidays and cultural events,subject > people and society > people > holidays and cultural events,,433,3,137
+16281,retail and shopping,subject > people and society > people > retail and shopping,,3573,2,342
+16302,ratings and reviews,subject > people and society > business > ratings and reviews,,1699,0,203
+16340,e-commerce services,subject > people and society > business > e-commerce services,,838,0,294
+16369,insurance,subject > people and society > business > finance > insurance,,1220,0,371
+16371,investing,subject > people and society > business > finance > investing,,4262,0,18341
+16373,currencies and foreign exchange,subject > people and society > business > finance > currencies and foreign exchange,,2771,1,1917
+16378,health conditions,subject > health and fitness > health > health conditions,,2545,0,1712
+16382,cancer,subject > health and fitness > health > health conditions > cancer,,3925,1,3155
+16383,diabetes,subject > health and fitness > health > health conditions > diabetes,,1620,0,564
+16388,heart conditions,subject > health and fitness > health > health conditions > heart conditions,,1329,0,1991
+16403,eyes and vision,subject > health and fitness > health > eyes and vision,,730,0,318
+16409,primary and secondary schools,subject > people and society > education > primary and secondary schools,,728,2,174
+16410,standardized testing,subject > people and society > education > standardized testing,,4076,0,393
+16414,jobs and career,subject > people and society > jobs and career,,737,1,4719
+16430,news,subject > people and society > news,,5020,1,3003
+16439,public safety,subject > people and society > law > government > public safety,,1272,2,656
+16453,social issues and advocacy,subject > people and society > social issues and advocacy,,1703,0,197
+16457,human rights,subject > people and society > social issues and advocacy > human rights,,69,0,18
+16461,travel,subject > people and society > business > travel,,2930,0,1317
+16467,hotels and accommodations,subject > people and society > business > travel > hotels and accommodations,,942,2,298
+16486,email and messaging,subject > science and technology > internet > email and messaging,,1878,1,121
+16489,online communities,subject > science and technology > internet > online communities,,6279,2,1229
+16502,social networks,subject > science and technology > internet > online communities > social networks,,3153,0,4295
+16525,electricity,subject > science and technology > energy > electricity,,602,0,120
+16526,oil and gas,subject > science and technology > energy > oil and gas,,525,0,86
+16532,hospitals and treatment centers,subject > health and fitness > health > healthcare > hospitals and treatment centers,,301,0,61
+16569,Two Sigma x Kaggle Finance Data Repo,admin > initiatives > Two Sigma x Kaggle Finance Data Repo,This is an example of the TS x Kaggle Finance repo tag page!,489,0,1
+16574,tpu,subject > science and technology > computer science > accelerators > tpu,A powerful computer chip built specifically for accelerating machine learning workloads in a fast and scalable manner. It is designed to massively parallelize ML tasks that would not normally fit on GPU.,57,2,57041
+16575,covid19,subject > health and fitness > health > health conditions > diseases > covid19,COVID-19 is a disease that is caused by the SARS-CoV-2 virus. In 2020 there was a global COVID-19 pandemic.,1662,9,2388
+16579,accelerators,subject > science and technology > computer science > accelerators,"""Involves an accelerator (e.g. - gpu, tpu)""",9,0,25
+16580,gpu,subject > science and technology > computer science > accelerators > gpu,A generalized processor that excels at small-to-medium-scale matrix operations. It is traditionally used for training machine learning models on very large datasets.,94,0,2341486
+16582,korea,geography and places > asia > korea,,50,0,64
+16583,canada,geography and places > north america > canada,,93,0,40
+16584,mexico,geography and places > north america > mexico,,34,0,13
+16585,packages,packages,"Libraries and frameworks that help you perform common functions, such as data cleaning, model building, and data visualizations",0,0,0
+16586,caret,packages > caret,,4,0,88
+16587,corrplot,packages > corrplot,,5,0,137
+16588,cv2,packages > cv2,,104,0,5937
+16589,datetime,packages > datetime,,136,0,448
+16590,doParallel,packages > doParallel,,2,0,13
+16591,dplyr,packages > dplyr,,45,0,173
+16592,forcats,packages > forcats,,11,0,54
+16593,foreach,packages > foreach,,0,0,1
+16594,gc,packages > gc,,0,0,9
+16595,ggplot2,packages > ggplot2,,89,0,709
+16596,ggthemes,packages > ggthemes,,0,0,15
+16597,glob,packages > glob,,0,0,12
+16598,gridExtra,packages > gridExtra,,0,0,21
+16599,IPython,packages > IPython,,36,0,625
+16600,json,packages > json,,95,0,71
+16601,jsonlite,packages > jsonlite,,2,0,3
+16602,keras,packages > keras,,199,0,6961
+16603,knitr,packages > knitr,,0,0,8
+16604,leaflet,packages > leaflet,,3,0,17
+16605,lightgbm,packages > lightgbm,,18,0,2735
+16606,lubridate,packages > lubridate,,10,0,86
+16607,matplotlib,packages > matplotlib,,159,0,63419
+16608,nltk,packages > nltk,,86,0,3086
+16609,numpy,packages > numpy,,171,1,59749
+16610,os,packages > os,,8,0,53
+16611,pandas,packages > pandas,,532,0,89128
+16612,pathlib,packages > pathlib,,1,0,13
+16613,PIL,packages > PIL,,10,0,3092
+16614,plotly,packages > plotly,,53,0,6953
+16615,plyr,packages > plyr,,1,0,4
+16616,randomForest,packages > randomForest,,11,0,768
+16617,RColorBrewer,packages > RColorBrewer,,1,0,6
+16618,re,packages > re,,9,0,37
+16619,readr,packages > readr,,4,0,18
+16620,reshape2,packages > reshape2,,1,0,5
+16621,rpart,packages > rpart,,0,0,10
+16622,scipy,packages > scipy,,16,0,3146
+16623,seaborn,packages > seaborn,,106,0,35708
+16624,sklearn,packages > sklearn,,156,0,12705
+16625,stringr,packages > stringr,,2,0,6
+16626,sys,packages > sys,,3,0,6
+16627,tensorflow,packages > tensorflow,TensorFlow is an open source library for machine learning. It lets researchers push the state-of-the-art in ML and developers easily build and deploy ML applications.,374,1,14090
+16628,tibble,packages > tibble,,3,0,7
+16629,tidyr,packages > tidyr,,9,0,47
+16630,tidyverse,packages > tidyverse,"A collection of R packages essential for data science. It includes ggplot2, dplyr, tidyr, readr, purrr, tibble, stringr, and forcats.",110,0,630
+16631,pytorch,packages > pytorch,,258,0,2414
+16632,torchvision,packages > torchvision,,28,0,1810
+16633,tqdm,packages > tqdm,,2,0,415
+16634,transformers,packages > transformers,,181,0,1850
+16635,automl,technique > automl,The process of automating the end to end workflow of machine learning in order to make it more accessible for non-experts.,61,0,1365
+16636,multilabel classification,technique > classification > multilabel classification,,131,3,500
+16637,subject,subject,,2,0,14
+16638,urban planning,subject > people and society > social science > urban planning,,49,0,19
+16639,python,subject > science and technology > computer science > programming > python,,430,0,7924
+16640,r,subject > science and technology > computer science > programming > r,,68,0,415
+16641,sql,subject > science and technology > computer science > programming > sql,,46,0,376
+16642,racial equity,subject > people and society > social issues and advocacy > racial equity,"Equal treatment, rights, and opportunity for all races regardless of the color of your skin",34,0,22
+16643,ml ethics,subject > people and society > social issues and advocacy > ml ethics,"A study of the ethical implications of machine learning algorithms, such as unintended biases and discriminatory outputs",45,0,164
+16663,middle east,geography and places > middle east,,52,0,11
+16664,oceania,geography and places > oceania,,9,0,6
+16665,greenland,geography and places > north america > greenland,,2,0,1
+16667,scheduled,admin > scheduled,,1,0,2625
+16668,pre-trained model,data type > pre-trained model,,12544,0,129
+16669,synced dataset,admin > synced dataset,,0,0,0

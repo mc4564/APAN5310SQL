@@ -1,0 +1,143 @@
+algorithm_id,algorithm_abbr,algorithm_name,algorithm_descrip
+1,AE,Absolute Error,Total sum of absolute value of each individual error.
+2,MCE,Mean Consequential Error,"Averages consequential error (i.e. if prediction isn't exact, the error is 1, otherwise 0). Only useful when predicting things exactly."
+3,Custom,Custom Evaluation Metric,A placeholder that indicates a custom algorithm is required.
+4,AUC,Area Under Receiver Operating Characteristic Curve,"Measures discrimination. Calculates how well an algorithm separates true positives from false positives. Overall good metric for classification problems. Has range [0.5, 1.0]"
+5,RMSE,Root Mean Squared Error,Square root of the average of the squared errors.
+6,CappedBinomialDeviance,Capped Binomial Deviance,A variant Log Likelihood statistic.
+7,MAE,Mean Absolute Error,Average of the absolute value of each individual error.
+8,RMSLE,Root Mean Squared Logarithmic Error,Square root of the average of the squared natural logarithm (plus one) error. Useful when it's more important to accurately predict lower magnitude values rather than precisely predicting higher magnitude values.
+9,NormalizedGini,Normalized Gini Index,Gini value of predicted values divided by Gini of perfect values
+10,PercentCorrectVisits,% Correct Visits,Percentage of correctly predicted visits.
+11,Gini,Gini Index,Area between the null hypothesis and actual value when ordered by predicted value
+12,GestureNormalizedLevenshteinMean,Gesture Normalized Levenshtein Mean,Normalized edit distance for Gesture challenge
+13,SMAPE,SMAPE,Symmetric Mean Absolute Percentage Error
+14,WeightedMeanQuadraticWeightedKappa,WeightedMeanQuadraticWeightedKappa,Weighted Mean Quadratic Weighted Kappa
+15,WMAE,Weighted Mean Absolute Error,Weighted average of the absolute value of each individual error.
+16,MulticlassLossOld,Multiclass Loss (Deprecated),"Negative log likelihood divided by the number of observations--solution is true category label (0 to n-1), submission is columns where Jth row is pred. prob. of J. Normalizes submission rows so sum is 1."
+17,MAP@3,MAP@3,Mean average precision @ 3 for the top recommended items.
+18,KddCtrAuc,,"Measures discrimination. Calculates how well an algorithm separates true positives from false positives. Has range [0.5, 1.0]. Public leaderboard set is subset of private leaderboard set."
+19,MAP@k,Mean Average Precision at K,Mean Average Precision at K
+20,CategorizationAccuracy,Categorization Accuracy,Percentage of correctly categorized items
+21,LogLoss,Log Loss,Log Loss
+22,MCAP,MCAP,Mean average precision across columns
+23,AverageAmongTopP,AverageAmongTop{P},"Average value of response within top p percentage of observations, by group"
+24,MeanFScoreVariant,Mean F-Score Variant,Mean F-Score that accepts non-matching indices
+25,BelkinHammingLoss,,
+26,WeightedR2,DataSetWeightedRSquared,R-squared averaged over multiple data sets.
+27,WRMSE,Weighted Root Mean Squared Error,Square root of the weighted average of the squared errors.
+28,DarkWorldsMetric,DarkWorldsMetric,Used for the Observing Dark Worlds competition.
+29,NWMAE,Normalized Weighted Mean Absolute Error,Normalized weighted average of the absolute value of each individual error.
+30,MWCRMSE,Mean Weighted Columnwise Root Mean Squared Error,Average of the RMSE of each column.
+31,NDCG@10,NDCG@10,Normalized Discounted Cumulative Gain at 10 documents
+32,TravelingSanta,Traveling Santa Metric,Takes two paths that must have disjoint edges. Returns length of longer.
+33,CauseEffectBidirectionalAuc,Bidirectional AUC for Cause Effect Pairs,"Solution should contain -1, 0, or 1. Averages AUC of 1 vs rest and -1 vs rest"
+34,MAP@{K}_OLD,,Mean Average Precision at K - prior to 2014
+35,MeanFScore,Mean F-Score,"Used for categorization when there are many categories per row, Mean F-score across the rows."
+36,NDCG@{K},,Normalized Discounted Cumulative Gain at K documents
+37,GE-FQ2,GE Flight Quest 2,GE Flight Quest 2 Simulator / Cost Function
+38,FacebookCircles,FacebookCircles,Facebook Circles
+39,MacroFScore,Macro F-Score,Macro F-Score
+40,PackingSantasSleigh,Packing Santas Sleigh Metric,"Given packing of presents, verfies present integrity and calculates the custom metric."
+41,MCAUC,Mean Columnwise Area Under Receiver Operating Characteristic Curve,"Measures discrimination. Calculates how well an algorithm separates true positives from false positives. Overall good metric for classification problems. Has range [0.5, 1.0]"
+42,HiggsBosonApproximateMedianSignificance,Higgs Boson Approximate Median Significance,Higgs Boson Approximate Median Significance
+43,LevenshteinMean,Levenshtein Mean,Averages the Levenshtein edit distance of strings
+44,AP@{K},,Average Precision at K
+45,NormalizedWeightedGini,Weighted Gini,Weighted area between the null hypothesis and actual value when ordered by predicted value
+46,MCRMSE,Mean Columnwise Root Mean Squared Error,Average of the RMSE of each column.
+47,SantaJobScheduling,Packing Santas Sleigh Metric,"Given job schedules, checks constraints and returns the datetime the last toy is complete."
+48,QuadraticWeightedKappa,QuadraticWeightedKappa,Quadratic Weighted Kappa
+49,CRPS,Continuous Rank Probability Score,Continuous Ranked Probability Score
+50,MulticlassLoss,Multiclass Loss,"Negative log likelihood divided by the number of observations--solution is true category label (0 to n-1), submission is columns where Jth row is pred. prob. of J. Normalizes submission rows so sum is 1."
+51,AHD@{Type},Averaged Haversine Distance,Averaged Haversine Distance
+52,MeanFScoreBeta,Mean F-Score Beta,"Used for categorization when there are many categories per row, Mean F-score across the rows."
+53,MAP@{K},,Mean Average Precision at K
+54,CernWeightedAuc,"Weighted AUC, with agreement check and correlation check",Weighted Area Under Receiver Operating Characteristic Curve
+55,RootMeanSquarePercentageError,Root Mean Square Percentage Error,Square root of the average of the squared percent errors.
+56,WeightedAUC,Weighted Area Under Receiver Operating Characteristic Curve,Weighted version of ROC AUC. Weights different regions of ROC space based on true-positive-rate thresholds.
+57,SantaRideShare,SantaRideShare,"Takes trips of delivery, and return the weighted distance of travel"
+58,R-squared,R-squared,"R squared, NOT actually R. Used for continuous predictions to measure the quality of a least squares fit to data."
+59,Dice,,Mean Dice Coefficient
+60,F_{Beta},FScoreBeta,"Effectiveness of binary predictions (0 or 1 only), with β times as much importance to Recall as Precision"
+61,MSE,Mean Squared Error,The average of the squared errors.
+62,MASpearmanR,,Mean Average Spearman's r (rank correlation  coefficient)
+63,MatthewsCorrelationCoefficient,Matthews correlation coefficient,Matthews correlation coefficient
+64,RValue,R Value,R Correlation
+65,SpearmanR,SpearmanR,Spearman's r (rank correlation  coefficient)
+66,JaccardDSTLParallel,JaccardDSTLParallel,JaccardDSTLParallel
+67,SantaWeightedBins,SantaWeightedBins,
+68,GoogleGlobalAP,GoogleGlobalAP,GoogleGlobalAP
+69,MeanBestErrorAtK,,MeanBestErrorAtK - same metric as LSVRC (ImageNet) Scene Classification metric. Parameter K defines the number of predictions you take into account for each sample.
+70,R2Score,R^2 score (coefficient of determination),The coefficient of determination
+71,ZillowMAE,ZillowMAE,Zillow Mean Absolute Error
+72,ImageNetObjectLocalization,ImageNetObjectLocalization,ImageNetObjectLocalization
+73,Score,Score,Score
+74,MCRMSLE,Mean Columnwise Root Mean Squared Logarithmic Error,Average of the RMSLE of each column.
+75,NWRMSLE,Normalized Weighted Root Mean Squared Logarithmic Error,Weighted square root of the average of the squared natural logarithm (plus one) error. Useful when it's more important to accurately predict lower magnitude values rather than precisely predicting higher magnitude values.
+76,TrackML,TrackML,CERN Particle Tracking Metric
+77,MCSpearmanR,Mean Columnwise Spearman's r (rank correlation  coefficient),
+78,SantaResident,Average Normalized Happiness,Average Normalized Happiness
+79,WeightedCategorizationAccuracy,Weighted Categorization Accuracy,Weighted percentage of correctly categorized items
+80,IntersectionOverUnionObjectSegmentation,IntersectionOverUnionObjectSegmentation,Evaluates multi-object segmentation quality using average precision
+81,CVPRAutoDrivingAveragePrecision,CVPRAutoDrivingAveragePrecision,Evaluates multi-object segmentation quality using average precision
+82,MAPE,MAPE,Mean Absolute Percentage Error
+83,TwoSigmaNews,Two Sigma News,Sharpe Ratio-like measure of returns
+84,OpenImagesObjectDetectionAP,OpenImagesObjectDetectionAP,OpenImagesObjectDetectionAP
+85,OpenImagesVisualRelations,OpenImagesVisualRelations,"OpenImagesVisualRelations metric for Open Images (by Google AI). The metric is the mean of 3 different measurements: mAP for each relation, mean Recall per image, and mAP of union of two boxes per relation"
+86,IntersectionOverUnionObjectSegmentationBeta,IntersectionOverUnionObjectSegmentationBeta,"Evaluates multi-object segmentation quality average precision, F1 score, or F2 score (for beta = 0, 1, or 2)"
+87,PKUAutoDrivingAP,PKUAutoDrivingAP,PKUAutoDrivingAP
+88,Precision@{K},,Precision of ranking comparing top K document results
+89,RSNAObjectDetectionAP,RSNAObjectDetectionAP,RSNAObjectDetectionAP
+90,WeightedMulticlassLoss,Weighted Multiclass Loss,"Negative log likelihood divided by the number of observations--solution is true category label (0 to n-1), submission is columns where Jth row is pred. prob. of J. Normalizes submission rows so sum is 1."
+91,WeightedLabelRankingAveragePrecision,Weighted Label Ranking Average Precision,"LRAP is the average over each ground truth label assigned to each sample, of the ratio of true vs. total labels with lower score."
+92,TravelingSanta2,Traveling Santa Metric 2 - Prime Edition,Returns TSP path length where every 10th step is 10% more lengthy unless coming from a prime CityId
+93,FScore_1,F-Score,Used for categorization of discrete binary predictions (0 or 1 only).  Harmonic mean of Recall and Precision
+94,MeanUtility,MeanUtility,"Effectiveness of binary predictions (0 or 1 only), with weights being applied to tp, tn, fp, fn"
+95,AP,Average Precision,"Compute average precision(AP) from prediction scores. AP summarizes a precision - recall curve as the weighted mean of precisions achieved at each threshold, with the increase in recall from the previous threshold used as the weight."
+96,JigsawBiasAUC,Jigsaw Bias AUC,Average of 4 different AUC metrics to minimize unintended bias in model subgroup predictions
+97,YT8M_MeanAveragePrecisionAtK,YT8M_MAP@{K},YT8M Custom MAP@{K} to handle partial ground truth labeling
+98,NQMicroF1,NQMicroF1,NQ Micro F1
+99,IntersectionOverUnionObjectSegmentationWithClassification,IntersectionOverUnionObjectSegmentationWithClassification,Evaluates multi-object segmentation and classification quality using average precision
+100,WeightedMeanColumnwiseLogLoss,Weighted Mean Columnwise Log Loss,Mean columnwise log loss with sample weights.
+101,KNISTMicroF1,KNISTMicroF1,KNISTMicroF1
+102,HammingLoss,HammingLoss,Calculates the Hamming Loss in a multi-label classification task
+103,,,
+104,GroupMeanLogMAE,Group Mean Log MAE,"Log of the Mean Absolute Error, calculated for each group, and then averaged across groups"
+105,SIIMDice,,SIIM Mean Dice Coefficient
+106,OpenImagesObjDetectionSegmentationAP,OpenImagesObjDetectionSegmentationAP,OpenImagesObjDetectionSegmentationAP
+107,PostProcessorKernel,PostProcessorKernel,Passing Kernels evaluation results to Metrics
+108,Lyft3DObjectDetectionAP,Lyft3DObjectDetectionAP,Lyft3DObjectDetectionAP
+109,Jaccard,Jaccard,Mean Jaccard Sim
+110,SantaWorkshopSchedule2019,Santa's Workshop Scheduling 2019,Cost function based on family preferences and workshop crowding
+111,SantaWorkshopSchedule2019Revenge,Santa's Workshop Scheduling 2019 - Revenge of the Accountants,Cost function based on family preferences and workshop crowding
+112,halite,Halite,
+113,IntersectionOverUnionObjectSegmentationWithF1,IntersectionOverUnionObjectSegmentationWithF1,Evaluates multi-object segmentation and classification quality using average F1 score
+114,M5_WRMSSE,M5 Weighted (Rowwise) Root Mean Squared Scaled Error,"Weighted Sum of the RMSE of each row, aggregated at various levels"
+115,WeightedRowwisePinballLoss,Weighted Rowwise Pinball Loss,(Weighted) Sum of the Pinball Loss of each row
+116,PostProcessorKernelDesc,PostProcessorKernelDesc,Descending LB order PostProcessor
+117,MeanColumnwiseLogLoss,Mean Columnwise Log Loss,Average of the Log Loss of each column.
+118,WeightedPinballLoss,Weighted Pinball Loss,(Weighted) Pinball Loss
+119,LaplaceLogLikelihood,Laplace Log Likelihood,"Laplace Log Likelihood. Metric values are negative, where a less negative value is better."
+120,football,Football,
+121,IndoorLocalization,Indoor Localization Mean Position Error,Euclidian Distance with Floor Penalty
+122,rps,"Rock, Paper, Scissors",
+123,JaneStreetPnl,Jane Street Trading,Custom trading return metric for Jane Street
+124,mab,Santa 2020 Beta,
+125,hungry_geese,Hungry Geese,
+126,JaccardFbeta,JaccardFbeta,Multi-label Jaccard Sim
+127,SmartphoneDecimeter,SmartphoneDecimeter,GPS position accuracy metric for smartphone GPS competition
+128,MeanColumnwiseMAE,Mean Columnwise Mean Absolute Error,Average of the MAE of each column
+129,Dice3DHausdorff,,Mean Dice + 3D Hausdorff Distance
+130,JigsawAgreementWithAnnotators,Jigsaw Agreement with Annotators,Tests whether the predicted direction of severity matches raters
+131,lux_ai_2021,Lux AI 2021,
+132,NFLHelmetIdentification,NFL Helmet Identification,Custom helmet segmentation metric for videos
+133,WeightedCorrelationCoefficient,Weighted Correlation Coefficient,Used for continuous predictions to measure the quality of weighted least squares fit to row-weighted data.
+134,SantasSuperpermutations2021,Santa's Superpermutations 2021,Checks superpermutation conditions for submitted strings and returns length of longest string as the score.
+135,CSIROObjectDetectionFBeta,CSIROObjectDetectionFBeta,CSIROObjectDetectionFBeta
+136,TextOverlapFBeta,TextOverlapFBeta,Thresholded overlap with classes
+137,MeanPearson,MeanPearson,Mean of the Pearson correlations within subgroups
+138,AdjustedRandIndex,Adjusted Rand Index,"Similarity measure between two clusterings, adjusted for chance"
+139,MedicalBoardFBeta,Medical Board F-Beta,Micro-averaged F-beta over index spans
+140,PearsonCorrelationCoefficient,PearsonCorrelationCoefficient,Pearson correlation coefficient
+141,kore_fleets,kore_fleets,
+142,ImageMatchingChallengeMaa,Image Matching Challenge pose mAA,Mean Average Accuracy (mAA) in pairwise pose estimation
