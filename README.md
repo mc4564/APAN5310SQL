@@ -1,6 +1,8 @@
-# APAN5310 SQL Final Project
+## APAN5310 SQL Final Project
+### Explore Meta Kaggle Dataset to Optimize User Experience
 
-#### Team 2: Jingjing, Linda, Shay, Huiling, Yiqing, Jianglan
+
+##### Team 2: Jingjing, Linda, Shay, Huiling, Yiqing, Jianglan
 The repository contains cleaned datasets, ER diagram and code for ETL and querying processes.
 
 Project goal is to enhanced the data quality for the Kaggle community by designing clear relational entities, normalizing data into third normal form, and establishing efficient ETL processes.
