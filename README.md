@@ -13,7 +13,7 @@ Project goal is to enhanced the data quality for the Kaggle community by designi
 
 - Kaggle can add value to existing cooperation with host companies by matching more users with applicable skills and better end results to participate in specific competitions. In addition, it can attract and engage with more companies to expand competition offerings. 
 
-With better insights into users and cooperating companies, Kaggle is able to improve both user experience, company benefits and realize generate tremendous growth.
+With better insights into users and cooperating companies, Kaggle is able to improve both user experience and company benefits, as well as to realize tremendous growth.
 
 Data Source: https://www.kaggle.com/datasets/kaggle/meta-kaggle?select=Competitions.csv
 
